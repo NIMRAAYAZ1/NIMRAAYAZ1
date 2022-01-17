@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIMRAAYAZ1
 - 👀 I’m interested in data analyst 
-- 🌱 I’m currently learning sql. tableu and r language 
+- 🌱 I’m currently learning sql. tableu and R language 
 - 💞️ I’m looking to collaborate on .teams ..
 
 
