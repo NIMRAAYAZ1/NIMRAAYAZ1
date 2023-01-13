@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NIMRAAYAZ1
 - 👀 I’m interested in data analyst|data scientist  
-- 🌱 I’m currently learning sql, R language 
+- 🌱 I’m currently working as Power BI Devolper
 - 💞️ how to reach me at nimra.ayaz0045@gmail.com
 
 
